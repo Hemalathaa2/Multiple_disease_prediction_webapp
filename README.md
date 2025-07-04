@@ -37,12 +37,6 @@ The application allows users to enter relevant medical details and get predictio
 
 ---
 
-## 📷 Screenshots
-
-*(You can add screenshots of your app here if you'd like)*
-
----
-
 ## 🔧 How to Run Locally
 
 1. Clone this repository:
